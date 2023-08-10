@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm M.Sai Santosh</h1>
 <h3 align="center">A Computer Science Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisantosh2209&label=Profile%20views&color=0e75b6&style=flat" alt="saisantosh2209" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisantosh2209&label=Profile%20views&color=0e40b4&style=plastic" alt="saisantosh2209" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
 
@@ -24,4 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisantosh2209&show_icons=true&locale=en" alt="saisantosh2209" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisantosh2209&" alt="saisantosh2209" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisantosh2209&theme=dark" alt="saisantosh2209" /></p>
+
