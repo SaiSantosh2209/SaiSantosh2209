@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="800" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*waA7WMrlMtQBzpoOkxNLlA.gif" alt="Profile Image">
-</p>
 
 <h1 align="center">Hi 👋, I'm M.Sai Santosh</h1>
 <h3 align="center">A Computer Science Enthusiast from India</h3>
